@@ -47,6 +47,6 @@ _**Heaven’s Light is Our Guide**_
 
 | Lab No. | Title | PDF |
 | :---: | :---: | :---: |
-| 01 | BASIC LOGIC GATES  | [LAB 01]()|
+| 01 | BASIC LOGIC GATES  | [LAB 01](https://github.com/samin2410016/ECE_2112_2410016/blob/main/2112%20lab%201.pdf)|
 
 
