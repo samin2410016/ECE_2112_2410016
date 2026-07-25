@@ -12,7 +12,7 @@ _**Heaven’s Light is Our Guide**_
   
   ## **Rajshahi University of Engineering and Technology** <br> 
   ### **Department of Electrical & Computer Engineering**
-  ### **Class Assignment**<br>
+  ### **LAB REPORTS**<br>
   **Course Name:** Digital Techniques Sessional<br>
   **Course Code:** ECE 2112
 </div>
@@ -46,7 +46,7 @@ _**Heaven’s Light is Our Guide**_
 ## INDEX:
 
 | Lab No. | Title | PDF |
-| :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: |
 | 01 | BASIC LOGIC GATES  | [LAB 01]()|
 
 
