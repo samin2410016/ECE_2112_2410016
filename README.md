@@ -49,4 +49,3 @@ _**Heaven’s Light is Our Guide**_
 | :---: | :---: | :---: |
 | 01 | BASIC LOGIC GATES  | [LAB 01](https://github.com/samin2410016/ECE_2112_2410016/blob/main/2112%20lab%201.pdf)|
 | 02 | Functions Simplified by K-MAP and Implementation by Logic Gates| [LAB 02](https://github.com/samin2410016/ECE_2112_2410016/blob/main/2112%20LAB%20REPORT%202.pdf)|
-| 03 | Function Implementation by IC Logic Gates| [LAB 03](https://github.com/samin2410016/ECE_2112_2410016/blob/main/2112%20report%203.pdf)
